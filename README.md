@@ -1,7 +1,11 @@
 ## Olá! Eu sou a Valentina 👋✨
 
-- 🔭 Estou à procura de novas oportunidades de trabalho
-- 🌱 Estudando Typescript, POO para Java e Angular
+- Carreira em desenvolvimento na área de Informática e desenvolvimento de sistemas.
+- Com Ensino Médio integrado ao curso técnico no Instituto Federal Catarinense – Campus Blumenau finalizado.
+- Iniciando a primeira graduação na instituição Furb no curso bacharelado em ciência da computação.
+- Facilidade para trabalhar em equipe e construir relações positivas em diferentes ambientes.
+- Sou uma pessoa criativa, comprometida e motivada a aprender continuamente, buscando sempre aprimorar minhas habilidades na área tecnológica.
+- Tenho interesse em solucionar problemas, colaborar com colegas e contribuir para projetos que promovam melhoria, inovação e eficiência.
 - 📫 Contate-me no email: valentina.kuelkamp@gmail.com
 - 📫 Contate-me no linkedin: www.linkedin.com/in/valentina-kricinski-kuelkamp-30625636b
 
